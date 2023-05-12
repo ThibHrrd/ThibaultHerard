@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thibault</h1>
 <h3 align="center">Just a French student in Cybersecurity at ENSIBS Working at @ovh / SteganoLover</h3>
 
-- 🔭 I’m currently working on [Ory/Kratos](https://github.com/ory/kratos)
+- 🔭 I’m currently working on [HeroCTF](https://github.com/HeroCTF/)
 
 - 🌱 I’m currently learning **Flutter**
 
